@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ctodobom/api-inter": "^2.2",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
